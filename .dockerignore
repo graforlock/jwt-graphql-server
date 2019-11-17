@@ -1,0 +1,5 @@
+.ionide
+.vscode
+node_modules
+Dockerfile
+docker-compose.yaml

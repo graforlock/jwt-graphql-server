@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API integration tests query getMessages authenticates and returns a message 1`] = `
+Object {
+  "data": Object {
+    "getMessages": Object {
+      "messageId": "4FjDaWFDZpVHDHFwdHR_t",
+    },
+  },
+}
+`;
