@@ -9,5 +9,5 @@
   - use the JWT token to pupulate headers at `localhost:9000` console:`{ "Authorization": "[token value]" }`
 
 # Running tests
-  - Unit tests: `npm test`
+  - Unit tests: `npm run test:unit`
   - Integration test: `docker-compose up --abort-on-container-exit --exit-code-from app`
