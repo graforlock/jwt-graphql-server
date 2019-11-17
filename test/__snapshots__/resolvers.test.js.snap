@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`resolvers Query getMessages successfully calls findById to retrieve a message 1`] = `
-Object {
-  "messageId": Any<String>,
-}
-`;

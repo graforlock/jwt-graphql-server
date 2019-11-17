@@ -1,5 +1,5 @@
 /* eslint-env jest */
-const resolvers = require('../graphql/resolvers');
+const resolvers = require('../../graphql/resolvers');
 const nanoid = require('nanoid');
 
 describe('resolvers', () => {

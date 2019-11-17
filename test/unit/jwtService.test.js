@@ -1,8 +1,8 @@
 /* eslint-env jest */
-const testUtils = require('./__utils__');
-const { privateKey, publicKey } = require('./__utils__/keypair');
+const testUtils = require('../__utils__');
+const { privateKey, publicKey } = require('../__utils__/keypair');
 
-const JwtService = require('../services/jwt');
+const JwtService = require('../../services/jwt');
 
 describe('JwtService', () => {
   let secretJwt;
